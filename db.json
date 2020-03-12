@@ -15,7 +15,14 @@
     "name": "typicode"
   },
   "foods": [
-
+        {
+            "id" : 1,
+            "food" : "kebap"
+        },
+        {
+            "id" : 3,
+            "food" : "sarma"
+        }
     ]
 
 }
