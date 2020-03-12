@@ -1,6 +1,11 @@
 {
   "posts": [
-
+    {
+      "name": "typicode"
+    },
+    {
+      "name": "oguzhangedik"
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
