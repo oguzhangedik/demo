@@ -1,8 +1,10 @@
-[
-    {
-        "food" : "kebap"
-    },
+{
+   foods: [
         {
-        "food" : "sarma"
-    }
-]
+            "food" : "kebap"
+        },
+            {
+            "food" : "sarma"
+        }
+    ]
+}
